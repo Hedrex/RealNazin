@@ -1,1 +1,4 @@
-<string name="accessibility_service_description">Real Nazin tracks your reels viewing habits automatically.</string>
+<resources>
+    <string name="app_name">RealNazin</string>
+    <string name="accessibility_service_description">Real Nazin tracks your reels viewing habits automatically.</string>
+</resources>
