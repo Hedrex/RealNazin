@@ -8,6 +8,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.draw.alpha // سطر الاستدعاء الذي كان مفقوداً
 import androidx.compose.ui.geometry.Offset
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.Shadow
@@ -70,7 +71,3 @@ fun SplashScreen(onNavigateToNext: () -> Unit) {
         }
     }
 }
-
-fun Modifier.alpha(alpha: Float) = this.then(
-    androidx.compose.ui.draw.alpha(alpha)
-)
