@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "470977716065",
+    "project_id": "realnazin-9fffe",
+    "storage_bucket": "realnazin-9fffe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470977716065:android:0c5a6382b36b5fb7df6f20",
+        "android_client_info": {
+          "package_name": "com.realnazin.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsAeyTxf4cbBeEhdjvPUHWYQOuDDUABxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
